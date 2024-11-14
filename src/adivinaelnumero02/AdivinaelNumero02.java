@@ -99,6 +99,7 @@ public class AdivinaelNumero02 {
                         } else if (principio == 'N' || principio == 'n'){
                             intentos_bucle = intentos;
                         }
+                    errores = 0;
                 }   
             }
         }
